@@ -1,1 +1,2 @@
 # Portfolio-Website
+This site showcases my projects, skills, and ongoing learning as a developer. It’s built to highlight my work in a clear, simple, and visually engaging way. Feel free to explore the code, check out the live demos, and reach out if you’d like to connect or collaborate.
